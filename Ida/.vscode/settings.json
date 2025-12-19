@@ -1,0 +1,39 @@
+{
+  "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
+  "files.eol": "\n", // Use LF endings
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.tabSize": 4
+  },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.tabSize": 4
+  },
+  "files.associations": {
+    "*.c": "c",
+    "*.cpp": "cpp",
+    "*.h": "cpp",
+    "*.hpp": "cpp",
+    "*.js": "javascript",
+    "*.ts": "typescript"
+  },
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.autoAddFileAssociations": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "prettier.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "prettier.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false
+}

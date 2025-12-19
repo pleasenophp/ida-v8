@@ -1,0 +1,5 @@
+# General modules and build outputs
+.vs/
+dist/
+*.vcxproj.user
+packages/

@@ -1,0 +1,16 @@
+{
+  "[cpp]": {
+    "editor.formatOnSave": false
+  },
+  "[c]": {
+    "editor.formatOnSave": false
+  },
+  "[h]": {
+    "editor.formatOnSave": false
+  },
+  "files.associations": {
+    "type_traits": "cpp",
+    "*.rh": "cpp"
+  },
+  "cmake.ignoreCMakeListsMissing": true
+}
